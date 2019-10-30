@@ -1,0 +1,16 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^3.6.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "rm -rf ./dev-build && tsc --outDir ./dev-build --noEmitOnError --preserveWatchOutput --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
