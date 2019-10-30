@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "@types/node": "^12.12.1",
     "typescript": "^3.6.4"
   },
   "devDependencies": {},
