@@ -1,5 +1,5 @@
 import { A } from '../../../shared/types/db';
 
-const a: A = {
+const a = {
   lastName: 'sdsd'
-};
+;
